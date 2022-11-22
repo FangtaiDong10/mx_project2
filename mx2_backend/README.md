@@ -1,0 +1,7 @@
+## Backend:
+
+Python 
+
+Flask
+
+MongoDB
